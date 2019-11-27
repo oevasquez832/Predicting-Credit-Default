@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FINAL_PROJECT
 
 Credit Card Defaults
@@ -13,3 +14,8 @@ Project Plan steps
 •    Webpage with Conclusion –characteristics of the best and worse borrowers
 
 Team Members Solomon, Dan, Oscar, Kenneth, Kathleen
+=======
+# Predicting-Credit-Default
+
+This project uses data from Lending Club to predict the probability of credit default based on a person's characteristics. Machine learning algorithms used are: logistics regression and random trees from Python's sci-kit learn package. Analysis and conclusion of study is then presented on a website optimized for tablet viewing created using Javascript components.
+>>>>>>> 1a37aa69696732b1a6e6c1ac9f57c52b7a2b01db
